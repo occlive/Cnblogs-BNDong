@@ -6,8 +6,6 @@
 </div>
 
 
-
-
 简介
 ----
 🎈博客园自定义模板后台代码备份
@@ -26,11 +24,14 @@
 ### 💌首页
 ![](https://cdn.jsdelivr.net/gh/occlive/ImageStore//javabase/BND1.png)
 ![](https://cdn.jsdelivr.net/gh/occlive/ImageStore//javabase/BND2.png)
+
 ### 💌个人信息
 ![](https://cdn.jsdelivr.net/gh/occlive/ImageStore//javabase/BND5.png)
+
 ### 💌内容
 ![](https://cdn.jsdelivr.net/gh/occlive/ImageStore//javabase/BND3.png)
-![](https://cdn.jsdelivr.net/gh/occlive/ImageStore//javabase/BND2.png)
+![](https://cdn.jsdelivr.net/gh/occlive/ImageStore//javabase/BND4.png)
+
 ### 💌友链
 ![](https://cdn.jsdelivr.net/gh/occlive/ImageStore//javabase/BND6.png)
 
