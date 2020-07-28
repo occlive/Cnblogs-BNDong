@@ -10,22 +10,29 @@
 
 简介
 ----
-⛅🎈博客园自定义模板后台代码备份
+🎈博客园自定义模板后台代码备份
 
-⛅🎈该项目主要存储**个人**后台代码设置
+🎈该项目主要存储**个人**后台代码设置
 
-⛅🎈主要包括:
-* 页面定制 `CSS` 代码
-* 博客侧边栏公告
-* 页脚 `HTML` 代码
-* 相关`CSS`代码
-* 相关`JS`代码
+🎈主要包括:
+* ⛅页面定制 `CSS` 代码
+* ⛅博客侧边栏公告
+* ⛅页脚 `HTML` 代码
+* ⛅相关`CSS`代码
+* ⛅相关`JS`代码
 
 展示
 ----
-![](https://cdn.jsdelivr.net/gh/occlive/ImageStore//javabase/cnblogs1.png)
-
-![](https://cdn.jsdelivr.net/gh/occlive/ImageStore//javabase/cnblogs2.png)
+### 💌首页
+![](https://cdn.jsdelivr.net/gh/occlive/ImageStore//javabase/BND1.png)
+![](https://cdn.jsdelivr.net/gh/occlive/ImageStore//javabase/BND2.png)
+### 💌个人信息
+![](https://cdn.jsdelivr.net/gh/occlive/ImageStore//javabase/BND5.png)
+### 💌内容
+![](https://cdn.jsdelivr.net/gh/occlive/ImageStore//javabase/BND3.png)
+![](https://cdn.jsdelivr.net/gh/occlive/ImageStore//javabase/BND2.png)
+### 💌友链
+![](https://cdn.jsdelivr.net/gh/occlive/ImageStore//javabase/BND6.png)
 
 🎉如果您感兴趣,可以点击查看该模板展示博客更多细节内容：
 
